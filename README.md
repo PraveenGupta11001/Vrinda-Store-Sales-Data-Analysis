@@ -1,4 +1,4 @@
-# Vrinda-Store-Sales-Data-Analysis
+# Vrinda Store Sales Data Analysis
 Analysing Sales of Vrinda Store via online platform using MS Excel and get Insight and chart plotting
 
 ![image](https://github.com/PraveenGupta11001/Vrinda-Store-Sales-Data-Analysis/assets/105053871/464ff613-bb93-42e2-8bb5-99c22046a3f3)
